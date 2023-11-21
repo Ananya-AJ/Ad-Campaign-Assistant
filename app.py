@@ -2,8 +2,7 @@ import gradio as gr
 from pipeline_1 import content_pipeline
 from pipeline_2 import ad_pipeline
 from flagging import ResultLogger
-from llama_chatbot import get_llama_response
-from stablebeluga_chatbot import chat
+from Llama_chatbot import chat
 
 
 strategy_options = ['Festive Promotion', 'Event-specific advertisement', 'Educational-use highlight', 'Educational-use highlight','Tech versatility showcase','Seasonal refresh']
@@ -16,7 +15,6 @@ marketing_prompt = gr.Interface(
     inputs=[
         gr.components.Textbox(lines=2, placeholder="Enter initial prompt here..."),
         gr.components.Dropdown(choices=strategy_options, label="Strategy"),
-        # gr.components.Textbox(lines=2, placeholder="Enter Product name..."),
         gr.components.Dropdown(choices=domain_options, label="Domain"),
         gr.components.Dropdown(choices=context_options,label="context"),
       
@@ -41,15 +39,6 @@ ad_display_creatives = gr.Interface(
 )
 
 chatbot = gr.ChatInterface(fn=chat)
-
-# chat_model = gr.ChatInterface(fn=get_llama_response, title="Llama Chatbot")
-# chat_interface = gr.Interface(
-#     fn=get_llama_response,
-#     inputs=gr.components.Textbox(),
-#     outputs=gr.components.Textbox(),
-#     title="Llama Chatbot",
-#     description="Talk to a Llama-powered chatbot!"
-# )
 
 demo = gr.TabbedInterface(
     interface_list=[marketing_prompt,ad_display_creatives,chatbot],
