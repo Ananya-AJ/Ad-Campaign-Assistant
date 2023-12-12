@@ -21,6 +21,7 @@ The objective of this project is to leverage the power of large language models,
 
 ![image](https://github.com/Ananya-AJ/Ad-Campaign-Assistant/assets/111623197/d037c1a8-a250-4c17-8ab8-3e7ac6763891)
 
+#### chatgpt link of how product documents were created
 
 
 
@@ -36,4 +37,7 @@ https://drive.google.com/file/d/1xTNV-QHdEwM4LW3CB4B9Vcs7oFBFlpQg/view?usp=drive
 
 #### Data
 https://drive.google.com/drive/folders/1j9qLL9KeW-_q8fKRDEqNttgFOhzTyVJu?usp=drive_link
+
+#### Demo recording
+https://drive.google.com/drive/folders/1EiB44XanaHX8Gn6d59sEHMw8txuE7Ot6?usp=drive_link
 
