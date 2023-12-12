@@ -12,6 +12,17 @@ The objective of this project is to leverage the power of large language models,
 
 #### App snapshots:
 
+![image](https://github.com/Ananya-AJ/Ad-Campaign-Assistant/assets/111623197/93288001-9cb0-41d4-b7ac-ee759b752898)
+
+
+
+<img width="1190" alt="image" src="https://github.com/Ananya-AJ/Ad-Campaign-Assistant/assets/111623197/a652fe14-23e7-40c5-85fb-31c31ea193c6">
+
+
+![image](https://github.com/Ananya-AJ/Ad-Campaign-Assistant/assets/111623197/d037c1a8-a250-4c17-8ab8-3e7ac6763891)
+
+
+
 
 #### To run the applicaton
 1. Clone repo.
