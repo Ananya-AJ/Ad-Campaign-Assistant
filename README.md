@@ -23,7 +23,7 @@ The objective of this project is to leverage the power of large language models,
 
 #### chatgpt link of how product documents were created
 
-
+https://chat.openai.com/share/0a9dbfe8-3a06-445f-b3db-2553ff046aa1
 
 #### To run the applicaton
 1. Clone repo.
@@ -40,4 +40,7 @@ https://drive.google.com/drive/folders/1j9qLL9KeW-_q8fKRDEqNttgFOhzTyVJu?usp=dri
 
 #### Demo recording
 https://drive.google.com/drive/folders/1EiB44XanaHX8Gn6d59sEHMw8txuE7Ot6?usp=drive_link
+
+#### Slide deck link
+https://docs.google.com/presentation/d/1sgsB241k6IBLU9-wumk4yRr8FjnPfLaL/edit?usp=sharing&ouid=103883618335316724098&rtpof=true&sd=true
 
